@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>addIcon-Small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-navigation-small" transform="translate(-93.000000, -21.000000)" fill="#232323">
+            <polyline id="addIcon-Small" transform="translate(103.313708, 31.313708) rotate(-315.000000) translate(-103.313708, -31.313708) " points="110.673708 25.4762685 108.511148 23.3137085 102.993708 28.8305085 97.4769085 23.3137085 95.3137085 25.4762685 100.831148 30.9937085 95.3137085 36.5105085 97.4769085 38.6737085 102.993708 33.1562685 108.511148 38.6737085 110.673708 36.5105085 105.156908 30.9937085 110.673708 25.4762685"></polyline>
+        </g>
+    </g>
+</svg>

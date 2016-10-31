@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>videoPauseIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-media" transform="translate(-102.000000, -20.000000)" fill="#232323">
+            <path d="M124.608726,30.8324419 L129.000561,30.8324419 L129.000561,49.070057 L124.608726,49.070057 L124.608726,30.8324419 Z M114.993126,30.8324419 L119.384961,30.8324419 L119.384961,49.070057 L114.993126,49.070057 L114.993126,30.8324419 Z M102,40.0003507 C102,51.0460324 110.954125,60 122,60 C133.045875,60 142,51.0460324 142,40.0003507 C142,28.954669 133.045875,20 122,20 C110.954125,20 102,28.954669 102,40.0003507 L102,40.0003507 Z" id="videoPauseIcon"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="14px" viewBox="0 0 24 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>emailIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-social" transform="translate(-467.000000, -23.000000)" fill="#232323">
+            <path d="M478.789474,29.6993684 L467.153263,23 L490.424947,23 L478.789474,29.6993684 L478.789474,29.6993684 Z M467.923263,36.1570526 L489.668211,36.1570526 L484.230316,28.8564211 L478.789474,31.9894737 L473.442211,28.9109474 L467.923263,36.1570526 L467.923263,36.1570526 Z M472.800421,28.5417895 L467,25.2024211 L467,36.1570526 L467.020632,36.1570526 L472.800421,28.5417895 L472.800421,28.5417895 Z M490.563474,36.1570526 L490.578947,36.1570526 L490.578947,25.2024211 L484.871368,28.488 L490.563474,36.1570526 L490.563474,36.1570526 Z" id="emailIcon"></path>
+        </g>
+    </g>
+</svg>

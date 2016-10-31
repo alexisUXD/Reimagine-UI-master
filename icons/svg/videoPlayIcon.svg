@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>videoPlayIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-media" transform="translate(-20.000000, -20.000000)" fill="#232323">
+            <path d="M40,20 C28.9543156,20 20,28.9543302 20,40.0000326 C20,51.0456698 28.9543156,60 40,60 C51.0456844,60 60,51.0456698 60,40.0000326 C60,28.9543302 51.0456844,20 40,20 L40,20 Z M36.2249712,53.3437698 L36.2249712,26.6562302 L49.5687519,40.0000326 L36.2249712,53.3437698 L36.2249712,53.3437698 Z" id="videoPlayIcon"></path>
+        </g>
+    </g>
+</svg>

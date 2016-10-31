@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>timeStampIcon-Small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-navigation-small" transform="translate(-357.000000, -23.000000)" fill="#232323">
+            <path d="M365.64,24.44 C369.61008,24.44 372.84,27.66992 372.84,31.64 C372.84,35.61008 369.61008,38.84 365.64,38.84 C361.66992,38.84 358.44,35.61008 358.44,31.64 C358.44,27.66992 361.66992,24.44 365.64,24.44 L365.64,24.44 Z M365.64,23 C360.86856,23 357,26.86856 357,31.64 C357,36.41216 360.86856,40.28 365.64,40.28 C370.41216,40.28 374.28,36.41216 374.28,31.64 C374.28,26.86856 370.41216,23 365.64,23 L365.64,23 Z M368.76552,34.29536 L365.79264,31.34048 L365.79264,26.70296 L364.35264,26.70296 L364.35264,31.93952 L367.7496,35.31632 L368.76552,34.29536 L368.76552,34.29536 Z" id="timeStampIcon-Small"></path>
+        </g>
+    </g>
+</svg>

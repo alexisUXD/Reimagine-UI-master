@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>removeIcon-Filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-informative" transform="translate(-96.000000, -27.000000)" fill="#231F1F">
+            <path d="M107.999748,27 C101.372987,27 96,32.3714838 96,39.0015978 C96,45.6291889 101.372987,51 107.999748,51 C114.626298,51 119.9963,45.6291889 120,39.0015978 C119.9963,32.3714838 114.626298,27 107.999748,27 L107.999748,27 Z M101.332586,40.3337258 L101.336538,37.6666106 L114.666111,37.6659799 L114.664303,40.3337258 L101.332586,40.3337258 Z" id="removeIcon-Filled"></path>
+        </g>
+    </g>
+</svg>

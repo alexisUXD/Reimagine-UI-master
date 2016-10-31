@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>offnetIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-informative" transform="translate(-397.000000, -31.000000)" fill="#222222">
+            <path d="M412,31.1052564 L406.174653,31.1052564 L406.174653,32.8641091 L409.190185,32.8641091 L402.846827,39.6594759 L404.010905,40.9029398 L410.353437,34.1093381 L410.353437,37.3631715 L412,37.3631715 L412,31.1052564 Z M408.102115,42.2549531 L408.102115,44.8989685 L399.065433,44.8989685 L399.065433,35.2460176 L401.553866,35.2460176 L403.574686,33.0397297 L397,33.0397297 L397,47.1052564 L410.166722,47.1052564 L410.166722,40.0133645 L408.102115,42.2549531 Z" id="offnetIcon"></path>
+        </g>
+    </g>
+</svg>

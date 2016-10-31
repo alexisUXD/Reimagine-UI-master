@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="16px" viewBox="0 0 19 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>commentIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-social" transform="translate(-399.000000, -22.000000)" fill="#232323">
+            <polyline id="commentIcon" points="399 22 399 34.5693293 405.925901 34.5715877 410.542981 38 410.543263 34.5715877 417.469195 34.5715877 417.469195 22 399 22"></polyline>
+        </g>
+    </g>
+</svg>

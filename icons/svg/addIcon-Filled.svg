@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>addIcon-Filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="core-iconset-informative" transform="translate(-20.000000, -25.000000)" fill="#231F1F">
+            <path d="M31.9997478,25 C25.3729869,25 20,30.3714838 20,37.0015978 C20,43.6291889 25.3729869,49 31.9997478,49 C38.6262984,49 43.9963004,43.6291889 44,37.0015978 C43.9963004,30.3714838 38.6262984,25 31.9997478,25 L31.9997478,25 Z M38.6643031,38.3337258 L33.3329783,38.3337258 L33.3463472,43.6675777 L30.6660968,43.6675777 L30.6663911,38.3337258 L25.3325859,38.3337258 L25.3365378,35.6666106 L30.6663911,35.6666106 L30.6663911,30.3336417 L33.3313808,30.3325905 L33.3329783,35.6666106 L38.6661108,35.6659799 L38.6643031,38.3337258 L38.6643031,38.3337258 Z" id="addIcon-Filled"></path>
+        </g>
+    </g>
+</svg>
